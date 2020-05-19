@@ -1,0 +1,6 @@
+Product2|About
+SomeProduct1|AboutProduct1
+SomeProduct3|AboutProduct4
+SomeProduct|AboutProduct
+SomeProduct|AboutProduct
+SomeProduct|AboutProduct
